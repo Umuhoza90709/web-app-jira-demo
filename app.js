@@ -9,4 +9,7 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`Server running at http://localhost:${port}`);
 });
+<<<<<<< HEAD
 
+=======
+>>>>>>> e4111b0a5a80eff30d5f2cb04532d68de0a8277f

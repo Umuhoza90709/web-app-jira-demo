@@ -1,0 +1,28 @@
+{
+  "name": "web-app-jira-demo",
+  "version": "1.0.0",
+  "description": "Demo Node.js app with Jira integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuhoza90709/web-app-jira-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuhoza90709/web-app-jira-demo/issues"
+  },
+  "homepage": "https://github.com/Umuhoza90709/web-app-jira-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+ HEAD
+  },
+  "devDependencies": {}
+
+  }
+ e4111b0a5a80eff30d5f2cb04532d68de0a8277f
+}
